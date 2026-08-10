@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-s-vyvodom-na-vtb.github.io
+Sitemap: https://igrovye-avtomaty-s-vyvodom-na-vtb.github.io/sitemap.xml
